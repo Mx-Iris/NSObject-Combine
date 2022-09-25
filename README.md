@@ -9,7 +9,7 @@ subject
   .store(in: &combine.cancellables)
 ```
 
-For the Swift native class, just follow HasCancellable to get it
+For the Swift native class, just adopted `HasCancellable` to get it
 
 ```swift
 class CancellableTest: HasCancellable {
