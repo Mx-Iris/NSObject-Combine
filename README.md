@@ -1,7 +1,8 @@
 # NSObject+Combine
 
-Cancellables no longer need to be defined, and can be used in any class like this anytime, anywhere.
+Inspiration comes from [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx)
 
+Cancellables no longer need to be defined, and can be used in any class like this anytime, anywhere.
 
 ```swift
 subject
